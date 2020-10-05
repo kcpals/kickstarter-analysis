@@ -1,11 +1,10 @@
 # kickstarter-analysis
 Performing analysis on kickstarter data
-![Outcomes_vs_Goals](path/to/image_name.png)
-![Theater_Outcomes_vs_Launch_Date(path/to/image_name.png)
+
 # Kickstarting with Excel
 
 ## Overview of Project
-Play Fever came close to its fundraising goal in a short amount of time. At this time the alysis needed is to see how different campaigns fared in relation to launch dates and funding goals. 
+ 
 ### Purpose
 
 ## Analysis and Challenges
@@ -17,9 +16,10 @@ Play Fever came close to its fundraising goal in a short amount of time. At this
 ### Challenges and Difficulties Encountered
 None
 ## Results
-
+Play Fever came close to its fundraising goal in a short amount of time. At this time the alysis needed is to see how different campaigns fared in relation to launch dates and funding goals.
+Purpose to unerstand how campaigns succeeded or failed based on time of year and Goals
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-![Theater_Outcomes_vs_Launch_Date(path/to/image_name.png)
+![Theater_Outcomes_vs_Launch_Date](path/to/image_name.png)
 Outcomes based on launch date show that highest success rates happen in the months of May and June with May being the most successful time to launch a campaign.  Launch dates in December, however, show the lowest success rates which could be contributed to the holidays and shown as not an ideal time for a launch.
 - What can you conclude about the Outcomes based on Goals?
 ![Outcomes_vs_Goals](path/to/image_name.png)
