@@ -19,7 +19,7 @@ None
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-Outcomes based on launch date show that highest success rates happen in the months of May and June.  Launch dates in December show the lowest success rates which could be contributed to the holidays and shown as not an ideal time for a launch.
+Outcomes based on launch date show that highest success rates happen in the months of May and June with May being the most successful time to launch a campaign.  Launch dates in December, however, show the lowest success rates which could be contributed to the holidays and shown as not an ideal time for a launch.
 - What can you conclude about the Outcomes based on Goals?
 Goals with lower dollar amounts fared most successful.  For example the highest percentage rate of 75.81% is attributed to goals at less than 1000
 - What are some limitations of this dataset?
